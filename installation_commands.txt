@@ -1,0 +1,6 @@
+pip install python-telegram-bot
+pip install openai
+
+python -m venv myvenv
+./myvenv\Scripts\activate
+
